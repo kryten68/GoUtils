@@ -1,4 +1,4 @@
-package kryten
+package Easyhttp
 
 import (
 	"fmt"
